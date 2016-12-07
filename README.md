@@ -1,2 +1,2 @@
 # Deneme
-Deneme HEllo
+Deneme Hello Değişti.
